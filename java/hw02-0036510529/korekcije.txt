@@ -1,0 +1,17 @@
+1. RECENZIJA:
+StackDemo minimalni uvjet zadovoljen i dodan % operator.
+
+2. RECENZIJA:
+Prvi Zadatak: Hvala vam na savjetu za uvlake, upoznat sam s tim shourcutom i 
+	koristim ga, ali kada exportam projekt onda se uvlake poremete, a ja 
+	uporno zaboravljam pitati kako to popraviti kada odem na konzultacije.
+	Konstruktori od Collection i Processor su sada prazni.
+Èetvrti zadatak: StackDemo sada zadovoljava minimalni uvjet.
+Peti zadatak: Dodana provjera ako je precani kompleksni broj null u add, sub,
+	mull i div metode.
+
+3. RECENZIJA:
+Treæi Zadatak: Popravljen last u metodi clear. U insertu popravljeno stavljanje 
+	u praznu listu. Popravljena metoda remove.
+Èetvrti Zadatak: Dodan % operator. Minimalni uvjet zadovoljen. 
+Peti Zadatak: Parser radi sada radi za "i" i "-i".

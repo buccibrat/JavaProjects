@@ -1,0 +1,3 @@
+Popravljena metoda put iz 2. zadatka. Minimalni uvjeti za drugi zadatak zadovoljeni.
+Popravljeni: get da vraæa E u list, obejectStack pop i peak da varaæaju E, 
+		

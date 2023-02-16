@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="195" key="DIALOG_X_ORIGIN"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+		<item value="true" key="actionSetFilter"/>
+		<item value="true" key="uncategorizedFilter"/>
+		<item value="true" key="internalFilter"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="669" key="dialogHeight"/>
+		<item value="829" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.ui.wizards.new.file" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.debug.ui.java"/>
+			<item value="org.eclipse.wst.jsdt.ui.java"/>
+			<item value="org.eclipse.jpt.jaxb"/>
+			<item value="org.eclipse.jpt.jpa"/>
+			<item value="org.eclipse.jpt.jpa/org.eclipse.jpt.jpa.eclipselink"/>
+			<item value="org.eclipse.pde.PDE"/>
+			<item value="org.eclipse.datatools.sql"/>
+			<item value="org.eclipse.pde.userAssistance"/>
+			<item value="org.eclipse.wst.web.ui"/>
+			<item value="org.eclipse.jst.ws.ui.new"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.export.ZipFile" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<item value="org.eclipse.m2e.core.wizards.Maven2ImportWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.m2e"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID"/>
+		<item value="false" key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\korisnik\Desktop\hw07-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\primjeri utr\hw05-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\temp\src\hw05-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\hw06-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\hw04-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\hw05-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\temp\hw05-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\temp\hw03-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\hw03_2-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\hw03-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\temp\hw04-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\temp\hw00-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\temp\hw02-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\temp\hw01-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\hw02-0036510529.zip"/>
+			<item value="C:\Users\korisnik\Desktop\hw01-0036510529.zip"/>
+		</list>
+	</section>
+</section>

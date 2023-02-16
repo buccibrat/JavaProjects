@@ -1,0 +1,2 @@
+Napisana dokumentacija. Popravljen lexer da radi za zakomentirani lexer test. Također sam popravio lexer 
+pa sad radi za ugnježđene petlje. Parser podijeljen u manje metode. popravljen createOriginalBody().
